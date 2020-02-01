@@ -1,0 +1,9 @@
+{
+  "name": "jp-s3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.610.0",
+    "jp-sync": "^1.0.0"
+  }
+}
